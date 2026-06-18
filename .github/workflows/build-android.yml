@@ -33,8 +33,7 @@ jobs:
 
       - name: APK bauen (Debug, signiert mit Debug-Key)
         working-directory: android
-        run: ./gradlew assembleDebug --no-daemon
-
+        run: chmod +x ./gradlew && ./gradlew assembleDebug --no-daemon
       - name: APK als Download bereitstellen
         uses: actions/upload-artifact@v4
         with:
