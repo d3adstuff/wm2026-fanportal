@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Spielplan</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html">
+        <span class="brand-mark">WM</span>
+        <span>WM 2026 Fan-Portal</span>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html">Start</a>
+        <a class="active" href="schedule.html">Spielplan</a>
+        <a href="standings.html">Tabellen</a>
+        <a href="teams.html">Teams</a>
+        <a href="venues.html">Austragungsorte</a>
+        <a href="about.html">Über</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container" style="padding-top: 2rem;">
+    <div class="filter-row">
+      <label for="groupFilter">Filter:</label>
+      <select id="groupFilter">
+        <option value="all">Alle Gruppen</option>
+        <option value="A">Gruppe A</option>
+        <option value="B">Gruppe B</option>
+        <option value="C">Gruppe C</option>
+        <option value="D">Gruppe D</option>
+        <option value="E">Gruppe E</option>
+        <option value="F">Gruppe F</option>
+        <option value="G">Gruppe G</option>
+        <option value="H">Gruppe H</option>
+        <option value="I">Gruppe I</option>
+        <option value="J">Gruppe J</option>
+        <option value="K">Gruppe K</option>
+        <option value="L">Gruppe L</option>
+      </select>
+    </div>
+    <section class="card">
+      <h2 class="section-title">Vollständiger Spielplan</h2>
+      <div id="schedule-list" class="match-list"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">WM 2026 Fan-Portal · Keine offizielle FIFA-Seite</div>
+  </footer>
+</body>
+</html>

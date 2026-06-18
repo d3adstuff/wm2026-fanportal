@@ -1,0 +1,19 @@
+{
+  "name": "wm2026-fanportal",
+  "version": "1.0.0",
+  "description": "Inoffizielles WM 2026 Fan-Portal als Webseite und Android-App",
+  "main": "index.js",
+  "scripts": {
+    "fetch-data": "node scripts/fetch-data.mjs",
+    "sync": "cap sync android",
+    "open:android": "cap open android"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^8.4.0",
+    "@capacitor/cli": "^8.4.0",
+    "@capacitor/core": "^8.4.0"
+  }
+}

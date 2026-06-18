@@ -1,0 +1,46 @@
+name: Android-APK bauen
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "docs/data/**"
+  workflow_dispatch: {}
+
+jobs:
+  build-apk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Java einrichten
+        uses: actions/setup-java@v4
+        with:
+          distribution: "temurin"
+          java-version: "21"
+
+      - name: Android SDK einrichten
+        uses: android-actions/setup-android@v3
+
+      - name: Abhängigkeiten installieren
+        run: npm ci
+
+      - name: Web-Assets in die Android-App synchronisieren
+        run: npx cap sync android
+
+      - name: APK bauen (Debug, signiert mit Debug-Key)
+        working-directory: android
+        run: ./gradlew assembleDebug --no-daemon
+
+      - name: APK als Download bereitstellen
+        uses: actions/upload-artifact@v4
+        with:
+          name: WM2026-FanPortal-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          retention-days: 30

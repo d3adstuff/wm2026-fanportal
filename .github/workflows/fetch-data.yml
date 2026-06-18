@@ -1,0 +1,36 @@
+name: Daten aktualisieren
+
+on:
+  schedule:
+    # Jede volle Stunde. Reicht für ein Fan-Portal locker und schont das
+    # Free-Tier-Rate-Limit von football-data.org (10 Requests/Minute).
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Live-Daten abrufen
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: node scripts/fetch-data.mjs
+
+      - name: Änderungen committen, falls vorhanden
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/matches.json docs/data/standings.json
+          git diff --staged --quiet || git commit -m "Daten aktualisiert ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          git push
