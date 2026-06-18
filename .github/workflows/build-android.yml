@@ -26,7 +26,7 @@ jobs:
           java-version: "21"
 
       - name: Abhängigkeiten installieren
-        run: npm ci
+        run: npm install
 
       - name: Web-Assets in die Android-App synchronisieren
         run: npx cap sync android
