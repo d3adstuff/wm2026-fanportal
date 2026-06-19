@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T13:55:32.061Z",
+  "generatedAt": "2026-06-19T20:20:27.494Z",
   "standings": [
     {
       "stage": "ALL",
@@ -264,15 +264,15 @@
             "tla": "USA",
             "crest": "https://crests.football-data.org/usa.svg"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
-          "won": 1,
+          "won": 2,
           "draw": 0,
           "lost": 0,
-          "points": 3,
-          "goalsFor": 4,
+          "points": 6,
+          "goalsFor": 6,
           "goalsAgainst": 1,
-          "goalDifference": 3
+          "goalDifference": 5
         },
         {
           "position": 2,
@@ -283,15 +283,15 @@
             "tla": "AUS",
             "crest": "https://crests.football-data.org/779.svg"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
           "won": 1,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 3,
           "goalsFor": 2,
-          "goalsAgainst": 0,
-          "goalDifference": 2
+          "goalsAgainst": 2,
+          "goalDifference": 0
         },
         {
           "position": 3,
