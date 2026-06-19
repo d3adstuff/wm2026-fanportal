@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T00:16:26.449Z",
+  "generatedAt": "2026-06-19T13:55:32.061Z",
   "standings": [
     {
       "stage": "ALL",
@@ -15,15 +15,15 @@
             "tla": "MEX",
             "crest": "https://crests.football-data.org/769.svg"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
-          "won": 1,
+          "won": 2,
           "draw": 0,
           "lost": 0,
-          "points": 3,
-          "goalsFor": 2,
+          "points": 6,
+          "goalsFor": 3,
           "goalsAgainst": 0,
-          "goalDifference": 2
+          "goalDifference": 3
         },
         {
           "position": 2,
@@ -34,15 +34,15 @@
             "tla": "KOR",
             "crest": "https://crests.football-data.org/772.png"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
           "won": 1,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 3,
           "goalsFor": 2,
-          "goalsAgainst": 1,
-          "goalDifference": 1
+          "goalsAgainst": 2,
+          "goalDifference": 0
         },
         {
           "position": 3,
