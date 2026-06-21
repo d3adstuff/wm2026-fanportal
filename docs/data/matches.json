@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T16:58:15.353Z",
+  "generatedAt": "2026-06-21T22:01:03.644Z",
   "matches": [
     {
       "area": {
@@ -19,7 +19,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537327,
@@ -28,7 +28,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-06-20T15:20:12Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -85,7 +85,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537328,
@@ -94,7 +94,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 772,
         "name": "South Korea",
@@ -151,7 +151,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537333,
@@ -160,7 +160,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -217,7 +217,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537345,
@@ -226,7 +226,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -283,7 +283,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537334,
@@ -292,7 +292,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T23:07:33Z",
       "homeTeam": {
         "id": 8030,
         "name": "Qatar",
@@ -349,7 +349,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537339,
@@ -358,7 +358,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-14T00:10:33Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -415,7 +415,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537340,
@@ -424,7 +424,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-14T03:09:14Z",
       "homeTeam": {
         "id": 836,
         "name": "Haiti",
@@ -481,7 +481,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537346,
@@ -490,7 +490,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-14T06:03:26Z",
       "homeTeam": {
         "id": 779,
         "name": "Australia",
@@ -547,7 +547,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537351,
@@ -556,7 +556,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-15T08:25:00Z",
       "homeTeam": {
         "id": 759,
         "name": "Germany",
@@ -613,7 +613,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537357,
@@ -622,7 +622,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-15T08:25:01Z",
       "homeTeam": {
         "id": 8601,
         "name": "Netherlands",
@@ -679,7 +679,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537352,
@@ -688,7 +688,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-15T08:25:01Z",
       "homeTeam": {
         "id": 1935,
         "name": "Ivory Coast",
@@ -745,7 +745,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537358,
@@ -754,7 +754,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-15T08:25:01Z",
       "homeTeam": {
         "id": 792,
         "name": "Sweden",
@@ -811,7 +811,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537369,
@@ -820,7 +820,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-16T03:25:00Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -877,7 +877,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537363,
@@ -886,7 +886,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-16T03:25:00Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -943,7 +943,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537370,
@@ -952,7 +952,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-16T03:25:00Z",
       "homeTeam": {
         "id": 801,
         "name": "Saudi Arabia",
@@ -964,7 +964,7 @@
         "id": 758,
         "name": "Uruguay",
         "shortName": "Uruguay",
-        "tla": "URU",
+        "tla": "URY",
         "crest": "https://crests.football-data.org/758.svg"
       },
       "score": {
@@ -1009,7 +1009,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537364,
@@ -1018,7 +1018,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-16T03:25:00Z",
       "homeTeam": {
         "id": 840,
         "name": "Iran",
@@ -1075,7 +1075,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537391,
@@ -1084,7 +1084,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-17T08:25:00Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -1141,7 +1141,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537392,
@@ -1150,7 +1150,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-17T08:25:00Z",
       "homeTeam": {
         "id": 8062,
         "name": "Iraq",
@@ -1207,7 +1207,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537397,
@@ -1216,7 +1216,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-17T08:25:01Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -1273,7 +1273,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537398,
@@ -1282,7 +1282,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-17T08:25:01Z",
       "homeTeam": {
         "id": 816,
         "name": "Austria",
@@ -1339,7 +1339,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537403,
@@ -1348,7 +1348,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-18T08:25:01Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -1405,7 +1405,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537409,
@@ -1414,7 +1414,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-18T08:25:01Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -1471,7 +1471,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537410,
@@ -1480,7 +1480,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-18T08:25:01Z",
       "homeTeam": {
         "id": 763,
         "name": "Ghana",
@@ -1537,7 +1537,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537404,
@@ -1546,7 +1546,7 @@
       "matchday": 1,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-18T08:25:01Z",
       "homeTeam": {
         "id": 8070,
         "name": "Uzbekistan",
@@ -1603,7 +1603,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537329,
@@ -1612,7 +1612,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-19T03:25:00Z",
       "homeTeam": {
         "id": 798,
         "name": "Czechia",
@@ -1669,7 +1669,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537335,
@@ -1678,7 +1678,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-19T03:25:00Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -1735,7 +1735,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537336,
@@ -1744,7 +1744,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-19T03:25:00Z",
       "homeTeam": {
         "id": 828,
         "name": "Canada",
@@ -1801,7 +1801,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537330,
@@ -1810,7 +1810,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-19T03:25:00Z",
       "homeTeam": {
         "id": 769,
         "name": "Mexico",
@@ -1867,7 +1867,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537348,
@@ -1876,7 +1876,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-20T08:25:00Z",
       "homeTeam": {
         "id": 771,
         "name": "United States",
@@ -1933,7 +1933,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537342,
@@ -1942,7 +1942,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-20T08:25:00Z",
       "homeTeam": {
         "id": 8873,
         "name": "Scotland",
@@ -1999,7 +1999,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537341,
@@ -2008,7 +2008,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-20T08:25:00Z",
       "homeTeam": {
         "id": 764,
         "name": "Brazil",
@@ -2065,7 +2065,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537347,
@@ -2074,7 +2074,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-20T08:25:01Z",
       "homeTeam": {
         "id": 803,
         "name": "Turkey",
@@ -2131,7 +2131,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537359,
@@ -2197,7 +2197,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537353,
@@ -2263,7 +2263,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537354,
@@ -2329,7 +2329,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537360,
@@ -2395,16 +2395,16 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537371,
       "utcDate": "2026-06-21T16:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-06-21T16:58:10Z",
+      "lastUpdated": "2026-06-21T20:36:54Z",
       "homeTeam": {
         "id": 760,
         "name": "Spain",
@@ -2423,7 +2423,7 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 3,
+          "home": 4,
           "away": 0
         },
         "halfTime": {
@@ -2461,16 +2461,16 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537365,
       "utcDate": "2026-06-21T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-21T21:06:37Z",
       "homeTeam": {
         "id": 805,
         "name": "Belgium",
@@ -2486,21 +2486,28 @@
         "crest": "https://crests.football-data.org/iran.svg"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 57288,
+          "name": "Darío Herrera",
+          "type": "REFEREE",
+          "nationality": "Argentina"
+        }
+      ]
     },
     {
       "area": {
@@ -2520,7 +2527,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537372,
@@ -2529,12 +2536,12 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 758,
         "name": "Uruguay",
         "shortName": "Uruguay",
-        "tla": "URU",
+        "tla": "URY",
         "crest": "https://crests.football-data.org/758.svg"
       },
       "awayTeam": {
@@ -2559,7 +2566,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 215543,
+          "name": "Espen Eskås",
+          "type": "REFEREE",
+          "nationality": "Norway"
+        }
+      ]
     },
     {
       "area": {
@@ -2579,7 +2593,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537366,
@@ -2588,7 +2602,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 783,
         "name": "New Zealand",
@@ -2638,7 +2652,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537399,
@@ -2647,7 +2661,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 762,
         "name": "Argentina",
@@ -2697,7 +2711,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537393,
@@ -2706,7 +2720,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
@@ -2756,7 +2770,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537394,
@@ -2765,7 +2779,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -2815,7 +2829,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537400,
@@ -2824,7 +2838,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 8049,
         "name": "Jordan",
@@ -2874,7 +2888,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537405,
@@ -2883,7 +2897,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 765,
         "name": "Portugal",
@@ -2933,7 +2947,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537411,
@@ -2942,7 +2956,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 770,
         "name": "England",
@@ -2992,7 +3006,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537412,
@@ -3001,7 +3015,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -3051,7 +3065,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537406,
@@ -3060,7 +3074,7 @@
       "matchday": 2,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -3110,7 +3124,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537337,
@@ -3119,7 +3133,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 788,
         "name": "Switzerland",
@@ -3169,7 +3183,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537338,
@@ -3178,7 +3192,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 1060,
         "name": "Bosnia-Herzegovina",
@@ -3228,7 +3242,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537344,
@@ -3237,7 +3251,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 815,
         "name": "Morocco",
@@ -3287,7 +3301,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537343,
@@ -3296,7 +3310,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 8873,
         "name": "Scotland",
@@ -3346,7 +3360,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537331,
@@ -3355,7 +3369,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 798,
         "name": "Czechia",
@@ -3405,7 +3419,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537332,
@@ -3414,7 +3428,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 774,
         "name": "South Africa",
@@ -3464,7 +3478,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537355,
@@ -3473,7 +3487,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 791,
         "name": "Ecuador",
@@ -3523,7 +3537,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537356,
@@ -3532,7 +3546,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 9460,
         "name": "Curaçao",
@@ -3582,7 +3596,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537361,
@@ -3591,7 +3605,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 802,
         "name": "Tunisia",
@@ -3641,7 +3655,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537362,
@@ -3650,7 +3664,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 766,
         "name": "Japan",
@@ -3700,7 +3714,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537349,
@@ -3709,7 +3723,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 803,
         "name": "Turkey",
@@ -3759,7 +3773,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537350,
@@ -3768,7 +3782,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 761,
         "name": "Paraguay",
@@ -3818,7 +3832,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537395,
@@ -3827,7 +3841,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 8872,
         "name": "Norway",
@@ -3877,7 +3891,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537396,
@@ -3886,7 +3900,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 804,
         "name": "Senegal",
@@ -3936,7 +3950,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537373,
@@ -3945,12 +3959,12 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 758,
         "name": "Uruguay",
         "shortName": "Uruguay",
-        "tla": "URU",
+        "tla": "URY",
         "crest": "https://crests.football-data.org/758.svg"
       },
       "awayTeam": {
@@ -3995,7 +4009,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537374,
@@ -4004,7 +4018,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 1930,
         "name": "Cape Verde Islands",
@@ -4054,7 +4068,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537367,
@@ -4063,7 +4077,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 783,
         "name": "New Zealand",
@@ -4113,7 +4127,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537368,
@@ -4122,7 +4136,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 825,
         "name": "Egypt",
@@ -4172,7 +4186,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537413,
@@ -4181,7 +4195,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 1836,
         "name": "Panama",
@@ -4231,7 +4245,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537414,
@@ -4240,7 +4254,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 799,
         "name": "Croatia",
@@ -4290,7 +4304,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537407,
@@ -4299,7 +4313,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 818,
         "name": "Colombia",
@@ -4349,7 +4363,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537408,
@@ -4358,7 +4372,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 1934,
         "name": "Congo DR",
@@ -4408,7 +4422,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537401,
@@ -4417,7 +4431,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 8049,
         "name": "Jordan",
@@ -4467,7 +4481,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537402,
@@ -4476,7 +4490,7 @@
       "matchday": 3,
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": 778,
         "name": "Algeria",
@@ -4526,7 +4540,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537417,
@@ -4535,7 +4549,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -4585,7 +4599,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537423,
@@ -4594,7 +4608,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -4644,7 +4658,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537415,
@@ -4653,7 +4667,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -4703,7 +4717,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537418,
@@ -4712,7 +4726,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -4762,7 +4776,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537424,
@@ -4771,7 +4785,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -4821,7 +4835,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537416,
@@ -4830,7 +4844,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -4880,7 +4894,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537425,
@@ -4889,7 +4903,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -4939,7 +4953,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537426,
@@ -4948,7 +4962,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -4998,7 +5012,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537422,
@@ -5007,7 +5021,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5057,7 +5071,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537421,
@@ -5066,7 +5080,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5116,7 +5130,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537420,
@@ -5125,7 +5139,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5175,7 +5189,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537419,
@@ -5184,7 +5198,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5234,7 +5248,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537429,
@@ -5243,7 +5257,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5293,7 +5307,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537428,
@@ -5302,7 +5316,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5352,7 +5366,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537427,
@@ -5361,7 +5375,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5411,7 +5425,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537430,
@@ -5420,7 +5434,7 @@
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5470,7 +5484,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537376,
@@ -5479,7 +5493,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5529,7 +5543,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537375,
@@ -5538,7 +5552,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5588,7 +5602,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537377,
@@ -5597,7 +5611,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5647,7 +5661,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537378,
@@ -5656,7 +5670,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5706,7 +5720,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537379,
@@ -5715,7 +5729,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5765,7 +5779,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537380,
@@ -5774,7 +5788,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5824,7 +5838,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537381,
@@ -5833,7 +5847,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5883,7 +5897,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537382,
@@ -5892,7 +5906,7 @@
       "matchday": null,
       "stage": "LAST_16",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -5942,7 +5956,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537383,
@@ -5951,7 +5965,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -6001,7 +6015,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537384,
@@ -6010,7 +6024,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -6060,7 +6074,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537385,
@@ -6069,7 +6083,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -6119,7 +6133,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537386,
@@ -6128,7 +6142,7 @@
       "matchday": null,
       "stage": "QUARTER_FINALS",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -6178,7 +6192,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537387,
@@ -6187,7 +6201,7 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -6237,7 +6251,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537388,
@@ -6246,7 +6260,7 @@
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -6296,7 +6310,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537389,
@@ -6305,7 +6319,7 @@
       "matchday": null,
       "stage": "THIRD_PLACE",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
@@ -6355,7 +6369,7 @@
         "id": 2398,
         "startDate": "2026-06-11",
         "endDate": "2026-07-19",
-        "currentMatchday": 2,
+        "currentMatchday": 1,
         "winner": null
       },
       "id": 537390,
@@ -6364,7 +6378,7 @@
       "matchday": null,
       "stage": "FINAL",
       "group": null,
-      "lastUpdated": "2026-06-20T15:20:13Z",
+      "lastUpdated": "2026-06-13T15:20:17Z",
       "homeTeam": {
         "id": null,
         "name": null,
