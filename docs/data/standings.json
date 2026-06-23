@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T19:27:53.634Z",
+  "generatedAt": "2026-06-23T23:38:49.284Z",
   "standings": [
     {
       "stage": "ALL",
@@ -928,12 +928,12 @@
             "tla": "ENG",
             "crest": "https://crests.football-data.org/770.svg"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "points": 3,
+          "points": 4,
           "goalsFor": 4,
           "goalsAgainst": 2,
           "goalDifference": 2
@@ -947,12 +947,12 @@
             "tla": "GHA",
             "crest": "https://crests.football-data.org/ghana.svg"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "points": 3,
+          "points": 4,
           "goalsFor": 1,
           "goalsAgainst": 0,
           "goalDifference": 1
@@ -966,12 +966,12 @@
             "tla": "PAN",
             "crest": "https://crests.football-data.org/panama.svg"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
-          "points": 0,
+          "points": 1,
           "goalsFor": 0,
           "goalsAgainst": 1,
           "goalDifference": -1
@@ -985,12 +985,12 @@
             "tla": "CRO",
             "crest": "https://crests.football-data.org/799.svg"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
           "won": 0,
-          "draw": 0,
+          "draw": 1,
           "lost": 1,
-          "points": 0,
+          "points": 1,
           "goalsFor": 2,
           "goalsAgainst": 4,
           "goalDifference": -2
