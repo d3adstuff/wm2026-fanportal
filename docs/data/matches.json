@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T16:07:01.510Z",
+  "generatedAt": "2026-07-03T20:42:31.563Z",
   "matches": [
     {
       "area": {
@@ -5652,11 +5652,11 @@
       },
       "id": 537428,
       "utcDate": "2026-07-03T18:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": null,
       "stage": "LAST_32",
       "group": null,
-      "lastUpdated": "2026-07-02T15:20:12Z",
+      "lastUpdated": "2026-07-03T20:42:24Z",
       "homeTeam": {
         "id": 779,
         "name": "Australia",
@@ -5672,15 +5672,23 @@
         "crest": "https://crests.football-data.org/825.svg"
       },
       "score": {
-        "winner": null,
-        "duration": "REGULAR",
+        "winner": "DRAW",
+        "duration": "EXTRA_TIME",
         "fullTime": {
+          "home": 1,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        },
+        "regularTime": {
           "home": null,
           "away": null
         },
-        "halfTime": {
-          "home": null,
-          "away": null
+        "extraTime": {
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -5752,7 +5760,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 77052,
+          "name": "Drew Fischer",
+          "type": "REFEREE",
+          "nationality": "Canada"
+        }
+      ]
     },
     {
       "area": {
