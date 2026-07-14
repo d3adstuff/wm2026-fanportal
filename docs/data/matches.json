@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T20:42:55.306Z",
+  "generatedAt": "2026-07-14T23:38:04.982Z",
   "matches": [
     {
       "area": {
@@ -6690,11 +6690,11 @@
       },
       "id": 537387,
       "utcDate": "2026-07-14T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "SEMI_FINALS",
       "group": null,
-      "lastUpdated": "2026-07-14T20:42:28Z",
+      "lastUpdated": "2026-07-14T22:25:01Z",
       "homeTeam": {
         "id": 773,
         "name": "France",
