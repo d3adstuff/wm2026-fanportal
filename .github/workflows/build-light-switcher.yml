@@ -8,6 +8,9 @@ on:
       - ".github/workflows/build-light-switcher.yml"
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   build-apk:
     runs-on: ubuntu-latest
@@ -25,9 +28,24 @@ jobs:
         working-directory: light-switcher-app
         run: chmod +x ./gradlew && ./gradlew assembleDebug --no-daemon
 
-      - name: APK als Download bereitstellen
+      - name: APK umbenennen
+        run: cp light-switcher-app/app/build/outputs/apk/debug/app-debug.apk LightSwitcher.apk
+
+      - name: APK als Download-Artefakt bereitstellen
         uses: actions/upload-artifact@v4
         with:
           name: LightSwitcher-apk
-          path: light-switcher-app/app/build/outputs/apk/debug/app-debug.apk
+          path: LightSwitcher.apk
           retention-days: 30
+
+      - name: APK als Release veröffentlichen (direkter Download-Link)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: light-switcher-latest
+          name: Light Switcher (latest)
+          body: |
+            Automatisch gebaute Debug-APK des Light Switcher.
+            Direkt auf dem Handy herunterladen und installieren
+            (ggf. "Installation aus unbekannten Quellen" erlauben).
+          prerelease: true
+          files: LightSwitcher.apk
