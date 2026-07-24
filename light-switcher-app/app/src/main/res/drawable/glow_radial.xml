@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Soft amber halo drawn behind the bulb when the light is on. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+        android:type="radial"
+        android:gradientRadius="150dp"
+        android:startColor="#99FFCA28"
+        android:centerColor="#4DFFC107"
+        android:endColor="#00FFC107" />
+</shape>

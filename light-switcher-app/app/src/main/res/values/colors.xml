@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="bg_off">#FF121212</color>
-    <color name="bg_on">#FFFFF6D5</color>
-    <color name="bulb_on">#FFFFC107</color>
-    <color name="bulb_off">#FF616161</color>
+    <!-- Dark / "off" palette -->
+    <color name="bg_off">#FF0E1116</color>
+    <color name="text_off">#FFEDF1F7</color>
+    <color name="hint_off">#FF8A93A3</color>
+    <color name="bulb_off">#FF525A68</color>
+
+    <!-- Bright / "on" palette. Light warm cream with deep-brown text stays easy to read. -->
+    <color name="bg_on">#FFFCEFC7</color>
+    <color name="text_on">#FF4A3600</color>
+    <color name="hint_on">#FF9A7B1F</color>
+    <color name="bulb_on">#FFFFB300</color>
+
+    <!-- Shared accents -->
+    <color name="glow_color">#FFFFC107</color>
     <color name="accent">#FFFFB300</color>
+    <color name="accent_pressed">#FFFFA000</color>
+    <color name="accent_text">#FF241900</color>
+
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>

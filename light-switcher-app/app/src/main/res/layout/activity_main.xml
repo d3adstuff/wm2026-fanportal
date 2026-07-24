@@ -9,41 +9,75 @@
     android:background="@color/bg_off"
     android:padding="24dp">
 
-    <ImageView
-        android:id="@+id/bulb"
-        android:layout_width="180dp"
-        android:layout_height="180dp"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/ic_bulb_off" />
+    <!-- Bulb + glow. The two bulb images are cross-faded during the transition. -->
+    <FrameLayout
+        android:id="@+id/bulbContainer"
+        android:layout_width="300dp"
+        android:layout_height="300dp">
+
+        <View
+            android:id="@+id/glow"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:alpha="0"
+            android:background="@drawable/glow_radial" />
+
+        <ImageView
+            android:id="@+id/bulbOff"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_bulb_off" />
+
+        <ImageView
+            android:id="@+id/bulbOn"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_gravity="center"
+            android:alpha="0"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_bulb_on" />
+    </FrameLayout>
 
     <TextView
         android:id="@+id/statusText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="16dp"
+        android:letterSpacing="0.12"
         android:text="@string/status_off"
-        android:textSize="28sp"
+        android:textColor="@color/text_off"
+        android:textSize="30sp"
         android:textStyle="bold" />
 
     <Button
         android:id="@+id/toggleButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
-        android:minWidth="200dp"
-        android:paddingHorizontal="32dp"
-        android:paddingVertical="16dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/btn_pill"
+        android:elevation="6dp"
+        android:letterSpacing="0.06"
+        android:minWidth="220dp"
+        android:paddingHorizontal="36dp"
+        android:paddingVertical="18dp"
+        android:stateListAnimator="@null"
         android:text="@string/turn_on"
-        android:textSize="18sp" />
+        android:textAllCaps="true"
+        android:textColor="@color/accent_text"
+        android:textSize="17sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/hint"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
-        android:alpha="0.7"
         android:gravity="center"
         android:text="@string/tap_hint"
+        android:textColor="@color/hint_off"
         android:textSize="13sp" />
 
 </LinearLayout>
