@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Light Switcher</string>
+    <string name="status_on">Light On</string>
+    <string name="status_off">Light Off</string>
+    <string name="turn_on">Turn On</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="tap_hint">Tap the bulb or the button to switch the light</string>
+    <string name="no_flash_hint">No flashlight on this device — screen light only</string>
+    <string name="torch_error">Could not access the flashlight</string>
+</resources>
