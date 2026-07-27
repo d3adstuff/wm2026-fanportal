@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
 
     <!-- The torch is exposed through CameraManager, which requires the camera permission. -->
     <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- Lets the app drive the Glyph Matrix on the back of a Nothing Phone (3). -->
+    <uses-permission android:name="com.nothing.ketchum.permission.ENABLE" />
+
+    <!-- The Glyph SDK declares minSdk 33; keep the app at minSdk 26 (it's a no-op elsewhere). -->
+    <uses-sdk tools:overrideLibrary="com.nothing.thirdparty" />
 
     <!-- Flash is nice-to-have, not mandatory: the app still works as a screen light. -->
     <uses-feature

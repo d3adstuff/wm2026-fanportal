@@ -16,6 +16,10 @@ same repo, in its own `light-switcher-app/` folder.
 - Stays in sync if the torch is changed by another app (`TorchCallback`).
 - Graceful fallback on devices without a flash — works as a screen-only switch.
 - Never leaves the torch on in the background (turned off in `onStop`).
+- Animated dark ⇄ bright transition (background, text, bulb and glow tween together).
+- **Nothing Phone (3):** lights up the rear **Glyph Matrix** at full brightness while
+  the light is on, via the bundled Glyph Matrix SDK. On every other device this is a
+  silent no-op — see `GlyphController.kt`.
 
 ## Build
 

@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
     private lateinit var cameraManager: CameraManager
+    private lateinit var glyph: GlyphController
 
     /** Id of the first camera that has a flash unit, or null if none exists. */
     private var flashCameraId: String? = null
@@ -74,6 +75,7 @@ class MainActivity : AppCompatActivity() {
 
         cameraManager = getSystemService(CAMERA_SERVICE) as CameraManager
         flashCameraId = findFlashCameraId()
+        glyph = GlyphController(this)
 
         binding.toggleButton.setOnClickListener { toggle() }
         binding.bulbContainer.setOnClickListener { toggle() }
@@ -88,6 +90,7 @@ class MainActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
         cameraManager.registerTorchCallback(torchCallback, null)
+        glyph.connect()
     }
 
     override fun onStop() {
@@ -95,6 +98,8 @@ class MainActivity : AppCompatActivity() {
         cameraManager.unregisterTorchCallback(torchCallback)
         // Be a good citizen: never leave the torch burning in the background.
         if (isOn) setTorch(false)
+        // Release the matrix (also turns it off) so it doesn't stay lit in the background.
+        glyph.release()
     }
 
     private fun toggle() {
@@ -124,6 +129,9 @@ class MainActivity : AppCompatActivity() {
 
     /** Smoothly tweens the whole screen between the dark and bright looks. */
     private fun animateTo(on: Boolean) {
+        // Mirror the light onto the Nothing Phone (3) Glyph Matrix (no-op elsewhere).
+        glyph.setOn(on)
+
         val end = if (on) 1f else 0f
         transition?.cancel()
         transition = ValueAnimator.ofFloat(fraction, end).apply {
