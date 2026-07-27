@@ -5,6 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/bg_off"
+    android:clickable="true"
+    android:focusable="true"
     android:padding="24dp">
 
     <!-- Bulb + glow, centred in the middle of the screen. The two bulb images
@@ -40,25 +42,6 @@
             android:contentDescription="@string/app_name"
             android:src="@drawable/ic_bulb_on" />
     </FrameLayout>
-
-    <Button
-        android:id="@+id/toggleButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom|center_horizontal"
-        android:layout_marginBottom="96dp"
-        android:background="@drawable/btn_pill"
-        android:elevation="6dp"
-        android:letterSpacing="0.06"
-        android:minWidth="220dp"
-        android:paddingHorizontal="36dp"
-        android:paddingVertical="18dp"
-        android:stateListAnimator="@null"
-        android:text="@string/turn_on"
-        android:textAllCaps="true"
-        android:textColor="@color/accent_text"
-        android:textSize="17sp"
-        android:textStyle="bold" />
 
     <!-- Only used for the "no flashlight" / error notices; empty otherwise. -->
     <TextView

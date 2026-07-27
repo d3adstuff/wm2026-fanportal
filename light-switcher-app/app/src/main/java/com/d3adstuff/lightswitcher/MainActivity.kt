@@ -75,8 +75,8 @@ class MainActivity : AppCompatActivity() {
         flashCameraId = findFlashCameraId()
         glyph = GlyphController(this)
 
-        binding.toggleButton.setOnClickListener { toggle() }
-        binding.bulbContainer.setOnClickListener { toggle() }
+        // Tapping anywhere on the screen switches the light.
+        binding.root.setOnClickListener { toggle() }
 
         if (flashCameraId == null) {
             binding.hint.text = getString(R.string.no_flash_hint)
@@ -167,9 +167,6 @@ class MainActivity : AppCompatActivity() {
         val pop = 1f + 0.14f * sin(f.toDouble() * PI).toFloat()
         binding.bulbContainer.scaleX = pop
         binding.bulbContainer.scaleY = pop
-
-        val bright = f >= 0.5f
-        binding.toggleButton.setText(if (bright) R.string.turn_off else R.string.turn_on)
     }
 
     private fun color(id: Int) = ContextCompat.getColor(this, id)
