@@ -96,10 +96,15 @@ class MainActivity : AppCompatActivity() {
     override fun onStop() {
         super.onStop()
         cameraManager.unregisterTorchCallback(torchCallback)
-        // Be a good citizen: never leave the torch burning in the background.
-        if (isOn) setTorch(false)
-        // Release the matrix (also turns it off) so it doesn't stay lit in the background.
-        glyph.release()
+        // A configuration change (e.g. rotating 9:16 <-> 16:9) also stops the activity.
+        // Don't touch the hardware in that case, or the torch/matrix state gets torn
+        // down and rebuilt mid-rotation and ends up out of sync with the button.
+        // Only clean up when the app is genuinely going to the background.
+        if (!isChangingConfigurations) {
+            // Be a good citizen: never leave the torch or matrix on in the background.
+            if (isOn) setTorch(false)
+            glyph.release()
+        }
     }
 
     private fun toggle() {
