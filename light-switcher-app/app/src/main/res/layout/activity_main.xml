@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:gravity="center"
     android:background="@color/bg_off"
     android:padding="24dp">
 
-    <!-- Bulb + glow. The two bulb images are cross-faded during the transition. -->
+    <!-- Bulb + glow, centred in the middle of the screen. The two bulb images
+         are cross-faded during the transition. -->
     <FrameLayout
         android:id="@+id/bulbContainer"
         android:layout_width="300dp"
-        android:layout_height="300dp">
+        android:layout_height="300dp"
+        android:layout_gravity="center">
 
         <View
             android:id="@+id/glow"
@@ -41,22 +41,12 @@
             android:src="@drawable/ic_bulb_on" />
     </FrameLayout>
 
-    <TextView
-        android:id="@+id/statusText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:letterSpacing="0.12"
-        android:text="@string/status_off"
-        android:textColor="@color/text_off"
-        android:textSize="30sp"
-        android:textStyle="bold" />
-
     <Button
         android:id="@+id/toggleButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="96dp"
         android:background="@drawable/btn_pill"
         android:elevation="6dp"
         android:letterSpacing="0.06"
@@ -70,14 +60,16 @@
         android:textSize="17sp"
         android:textStyle="bold" />
 
+    <!-- Only used for the "no flashlight" / error notices; empty otherwise. -->
     <TextView
         android:id="@+id/hint"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="28dp"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="44dp"
         android:gravity="center"
-        android:text="@string/tap_hint"
+        android:text=""
         android:textColor="@color/hint_off"
         android:textSize="13sp" />
 
-</LinearLayout>
+</FrameLayout>

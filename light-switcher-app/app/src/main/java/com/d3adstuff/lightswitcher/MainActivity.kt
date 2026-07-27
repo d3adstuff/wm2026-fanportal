@@ -39,7 +39,6 @@ class MainActivity : AppCompatActivity() {
 
     // Endpoint colours, resolved once.
     private var bgOff = 0; private var bgOn = 0
-    private var textOff = 0; private var textOn = 0
     private var hintOff = 0; private var hintOn = 0
 
     private val requestCameraPermission =
@@ -70,7 +69,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         bgOff = color(R.color.bg_off); bgOn = color(R.color.bg_on)
-        textOff = color(R.color.text_off); textOn = color(R.color.text_on)
         hintOff = color(R.color.hint_off); hintOn = color(R.color.hint_on)
 
         cameraManager = getSystemService(CAMERA_SERVICE) as CameraManager
@@ -159,7 +157,6 @@ class MainActivity : AppCompatActivity() {
         fraction = f
 
         binding.root.setBackgroundColor(argb.evaluate(f, bgOff, bgOn) as Int)
-        binding.statusText.setTextColor(argb.evaluate(f, textOff, textOn) as Int)
         binding.hint.setTextColor(argb.evaluate(f, hintOff, hintOn) as Int)
 
         binding.bulbOn.alpha = f
@@ -172,7 +169,6 @@ class MainActivity : AppCompatActivity() {
         binding.bulbContainer.scaleY = pop
 
         val bright = f >= 0.5f
-        binding.statusText.setText(if (bright) R.string.status_on else R.string.status_off)
         binding.toggleButton.setText(if (bright) R.string.turn_off else R.string.turn_on)
     }
 
